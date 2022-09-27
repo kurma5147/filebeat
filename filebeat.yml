@@ -67,7 +67,7 @@ spec:
         ]
         env:
         - name: ELASTICSEARCH_HOST
-          value: https://demo-1dd54b.es.ap-south-1.aws.elastic-cloud.com
+          value: https://sampledeploy.es.us-east-1.aws.found.io
         - name: ELASTICSEARCH_PORT
           value: "9243"
         - name: ELASTICSEARCH_USERNAME
